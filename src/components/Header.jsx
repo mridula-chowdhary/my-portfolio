@@ -19,13 +19,18 @@ const Header = () => {
             </ScrollLink>
           </li>
           <li>
-            <ScrollLink to="projects" smooth={true} duration={500}>
-              Projects
-            </ScrollLink>
+            <a
+              href="https://drive.google.com/file/d/13EGEnWcAOIiJ2osp0OKmcCAh25X2PYVg/view?usp=drivesdk"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xl cursor-pointer"
+            >
+              Resume
+            </a>
           </li>
           <li>
-            <ScrollLink to="resume" smooth={true} duration={500}>
-              Resume
+            <ScrollLink to="projects" smooth={true} duration={500}>
+              Projects
             </ScrollLink>
           </li>
           <li>

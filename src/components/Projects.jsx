@@ -1,4 +1,4 @@
-import React from 'react';
+
 import foodApp from '../assets/food-app.png';
 import resume from '../assets/Resume.png'
 
