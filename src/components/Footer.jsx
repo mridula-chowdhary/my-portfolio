@@ -1,5 +1,4 @@
-// src/components/Footer.js
-import React from 'react';
+
 import { FaLinkedin, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 const Footer = () => {
@@ -12,7 +11,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/mridula-chowdhary/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700 transition duration-300">
             <FaLinkedin className="text-2xl" />
           </a>
-          <a href="https://www.instagram.com/mridula-chowdhary" target="_blank" rel="noopener noreferrer" className="text-pink-500 hover:text-pink-700 transition duration-300">
+          <a href="https://www.instagram.com/mridula.chowdhary" target="_blank" rel="noopener noreferrer" className="text-pink-500 hover:text-pink-700 transition duration-300">
             <FaInstagram className="text-2xl" />
           </a>
           <a href="https://x.com/Mridula_11" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 transition duration-300">
